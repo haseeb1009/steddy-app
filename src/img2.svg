@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94.146" height="95.725" viewBox="0 0 94.146 95.725">
+  <g id="Group_1179" data-name="Group 1179" transform="translate(-220.854 -459.237)">
+    <circle id="Ellipse_32" data-name="Ellipse 32" cx="45" cy="45" r="45" transform="translate(225 459.237)" fill="#dcc3f2"/>
+    <g id="magnifying-glass" transform="translate(220.854 467.816)">
+      <g id="Group_813" data-name="Group 813">
+        <path id="Path_97" data-name="Path 97" d="M76.806,60.348A35.361,35.361,0,0,0,26.8,10.34,34.674,34.674,0,0,0,21.48,53.017a1.487,1.487,0,0,1-.205,1.772L3.233,72.83c-3.591,3.591-4.446,8.612-1.261,11.8l.548.548c3.184,3.185,8.206,2.33,11.8-1.261l18-18a1.51,1.51,0,0,1,1.81-.243A34.674,34.674,0,0,0,76.806,60.348ZM33.327,53.82a26.128,26.128,0,1,1,36.951,0A26.157,26.157,0,0,1,33.327,53.82Z" transform="translate(-0.001 0)" fill="#746d7f"/>
+        <g id="Group_812" data-name="Group 812" transform="translate(31.934 14.152)">
+          <path id="Path_98" data-name="Path 98" d="M117.4,69.5a3.651,3.651,0,0,1-3.36-5.073,23,23,0,0,1,30.112-12.205,3.65,3.65,0,1,1-2.845,6.722,15.694,15.694,0,0,0-20.545,8.327A3.651,3.651,0,0,1,117.4,69.5Z" transform="translate(-113.752 -50.409)" fill="#746d7f"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

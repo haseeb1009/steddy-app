@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="270.91" height="542" viewBox="0 0 270.91 542">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path5740" d="M1.283,62.136A1.279,1.279,0,0,1,0,60.854V1.283A1.281,1.281,0,0,1,1.283,0h9.881a1.281,1.281,0,0,1,1.283,1.283V60.854a1.279,1.279,0,0,1-1.283,1.282Z" transform="translate(0)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-25.328" y1="1.657" x2="-25.328" y2="0.657" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cbcbcb" stop-opacity="0.275"/>
+      <stop offset="0.04" stop-color="#cbcbcb"/>
+      <stop offset="0.96" stop-color="#cbcbcb"/>
+      <stop offset="1" stop-color="#cbcbcb" stop-opacity="0.275"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <rect id="rect5403" width="12.448" height="21.095" rx="0.451"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="1" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cbcbcb" stop-opacity="0.275"/>
+      <stop offset="0.05" stop-color="#cbcbcb"/>
+      <stop offset="0.95" stop-color="#cbcbcb"/>
+      <stop offset="1" stop-color="#cbcbcb" stop-opacity="0.275"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path id="path5591" d="M1.283,39.688A1.279,1.279,0,0,0,0,40.97V77.7a1.281,1.281,0,0,0,1.283,1.283h9.881A1.281,1.281,0,0,0,12.448,77.7V40.97a1.279,1.279,0,0,0-1.283-1.282Z" transform="translate(0 -39.688)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-25.328" y1="-1.063" x2="-25.328" y2="-0.063" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-5">
+      <path id="path4962" d="M41.151.533A40.226,40.226,0,0,0,.837,40.847V500.218a40.226,40.226,0,0,0,40.314,40.314H226.67a40.226,40.226,0,0,0,40.314-40.314V40.847A40.226,40.226,0,0,0,226.67.533ZM40.079,3.527H227.742A36.028,36.028,0,0,1,263.85,39.633V501.858a36.029,36.029,0,0,1-36.108,36.108H40.079A36.029,36.029,0,0,1,3.972,501.858V39.633A36.028,36.028,0,0,1,40.079,3.527Z" transform="translate(-0.837 -0.533)" fill="#ebebeb"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" x1="0.637" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#404040"/>
+      <stop offset="0.6" stop-color="#838383"/>
+      <stop offset="1" stop-color="#a7a7a7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="51.922" y1="1.951" x2="53.294" y2="1.951" xlink:href="#linear-gradient-5"/>
+    <linearGradient id="linear-gradient-7" x1="-0.001" y1="1.79" x2="0.999" y2="1.79" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4f4f4f" stop-opacity="0.129"/>
+      <stop offset="0.07" stop-color="#4f4f4f"/>
+      <stop offset="0.937" stop-color="#4f4f4f" stop-opacity="0.953"/>
+      <stop offset="1" stop-color="#4f4f4f" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-8" x1="-0.001" y1="-53.566" x2="0.999" y2="-53.566" xlink:href="#linear-gradient-7"/>
+    <filter id="Rectangle_34" x="24" y="189.539" width="120" height="203" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_11" x="25.5" y="463.5" width="222" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2167" data-name="Group 2167" transform="translate(-720 -1091)">
+    <g id="layer2" transform="translate(720 1090.801)">
+      <g id="g5754" transform="translate(258.463 125.365)">
+        <path id="rect5351-5-5" d="M102.038,44.206a1.279,1.279,0,0,1,1.283,1.282v59.571a1.281,1.281,0,0,1-1.283,1.283H92.157a1.281,1.281,0,0,1-1.283-1.283V45.488a1.279,1.279,0,0,1,1.283-1.282Z" transform="translate(-90.874 -44.206)"/>
+        <g id="Group_2149" data-name="Group 2149" transform="translate(12.448 62.136) rotate(180)" clip-path="url(#clip-path)">
+          <path id="rect5351-6-6-3" d="M1.143,59.847A1.141,1.141,0,0,1,0,58.7V1.143A1.141,1.141,0,0,1,1.143,0H1.5V59.847Z" transform="translate(0.412 1.145)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="g5503" transform="translate(0 73.175)">
+        <rect id="rect5351" width="12.448" height="21.095" rx="0.451" transform="translate(0 0)"/>
+        <g id="Group_2150" data-name="Group 2150" transform="translate(0)" clip-path="url(#clip-path-2)">
+          <path id="rect5351-6" d="M-12.589,26.259A1.141,1.141,0,0,0-13.733,27.4V43.921a1.141,1.141,0,0,0,1.143,1.143h.356V26.259Z" transform="translate(14.145 -25.115)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <g id="g5624" transform="translate(0 112.514)">
+        <path id="rect5351-5" d="M1.283,39.688A1.279,1.279,0,0,0,0,40.97V77.7a1.281,1.281,0,0,0,1.283,1.283h9.881A1.281,1.281,0,0,0,12.448,77.7V40.97a1.279,1.279,0,0,0-1.283-1.282Z" transform="translate(0 -39.688)"/>
+        <g id="Group_2151" data-name="Group 2151" clip-path="url(#clip-path-3)">
+          <path id="rect5351-6-6" d="M1.288,40.09A1.141,1.141,0,0,0,.145,41.234V75.949a1.141,1.141,0,0,0,1.143,1.144h.356v-37Z" transform="translate(0.267 -38.946)" fill="url(#linear-gradient-3)"/>
+        </g>
+      </g>
+      <g id="g5624-1" transform="translate(0 161.925)">
+        <path id="rect5351-5-6" d="M1.283,39.688A1.279,1.279,0,0,0,0,40.97V77.7a1.281,1.281,0,0,0,1.283,1.283h9.881A1.281,1.281,0,0,0,12.448,77.7V40.97a1.279,1.279,0,0,0-1.283-1.282Z" transform="translate(0 -39.688)"/>
+        <g id="Group_2152" data-name="Group 2152" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+          <path id="rect5351-6-6-2" d="M1.288,40.09A1.141,1.141,0,0,0,.145,41.234V75.949a1.141,1.141,0,0,0,1.143,1.144h.356v-37Z" transform="translate(0.267 -38.946)" fill="url(#linear-gradient-3)"/>
+        </g>
+      </g>
+      <path id="rect4852" d="M40.237.2A39.63,39.63,0,0,0,.519,39.917V502.48A39.632,39.632,0,0,0,40.237,542.2h80.493l1.645-2.331h24.247l1.646,2.331H228.76a39.632,39.632,0,0,0,39.718-39.719V39.917A39.63,39.63,0,0,0,228.76.2Z" transform="translate(0.053 0)" fill="#f7f6f4"/>
+      <g id="g5128" transform="translate(2.38 1.148)">
+        <g id="g5116" transform="translate(0 0.19)">
+          <path id="path5106" d="M245.178,22.229h3.135V18.523h-3.135Z" transform="translate(-245.178 32.456)" fill="#7d7e7f"/>
+          <path id="path5104" d="M245.178,450.367h3.135V19.826h-3.135Z" transform="translate(-245.178 34.859)" fill="#ebebeb"/>
+          <path id="path5102" d="M245.178,174.908h3.135V171.2h-3.135Z" transform="translate(-245.178 314.024)" fill="#7d7e7f"/>
+          <path id="path5100" d="M511.329,172.5h-3.135v12.4a36.029,36.029,0,0,1-36.108,36.108H284.421A36.029,36.029,0,0,1,248.313,184.9V172.5h-3.135v10.759a40.227,40.227,0,0,0,40.315,40.315H471.015a40.227,40.227,0,0,0,40.315-40.315Z" transform="translate(-245.178 316.428)" fill="#ebebeb"/>
+          <path id="path5098" d="M340.787,171.2h-3.135v3.707h3.135Z" transform="translate(-74.636 314.024)" fill="#7d7e7f"/>
+          <path id="path5096" d="M340.787,19.826h-3.135V450.367h3.135Z" transform="translate(-74.636 34.859)" fill="#ebebeb"/>
+          <path id="path5094" d="M340.787,18.523h-3.135v3.705h3.135Z" transform="translate(-74.636 32.456)" fill="#7d7e7f"/>
+          <path id="rect4873" d="M285.493.6a40.227,40.227,0,0,0-40.315,40.315V51.579h3.135V39.7A36.028,36.028,0,0,1,284.421,3.593H472.086A36.028,36.028,0,0,1,508.194,39.7V51.579h3.135V40.914A40.227,40.227,0,0,0,471.014.6Z" transform="translate(-245.178 -0.599)" fill="#ebebeb"/>
+        </g>
+        <g id="Group_2153" data-name="Group 2153" clip-path="url(#clip-path-5)">
+          <path id="path4878" d="M29.994,3.068c-4.957-.126-14.4,1.374-24.1,12.275C-8.22,31.2,4.411,21.659,4.411,21.659S13.079,8.222,25.173,6.475s8.4-2.957,8.4-2.957A15.2,15.2,0,0,0,29.994,3.068Zm213.83,0a15.2,15.2,0,0,0-3.577.45s-3.7,1.21,8.4,2.957,20.762,15.184,20.762,15.184,12.631,9.541-1.479-6.316C258.228,4.442,248.781,2.942,243.824,3.068ZM-.38,507.528c-1.082-.13-.344,1.722,6.27,9.155C20,532.54,33.571,528.509,33.571,528.509s3.7-1.21-8.4-2.957S4.411,510.368,4.411,510.368.846,507.675-.38,507.528Zm274.579,0c-1.227.147-4.791,2.839-4.791,2.839s-8.668,13.437-20.762,15.184-8.4,2.957-8.4,2.957,13.572,4.031,27.681-11.826C274.542,509.251,275.281,507.4,274.2,507.528Z" transform="translate(-3.835 4.131)" fill="#434343" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <g id="g5259" transform="translate(8.168 11.188)">
+        <path id="rect5132" d="M86.428,4.069c-.884-.088-.467.794,1.517,2.631A33.388,33.388,0,0,1,98.552,31.3V497.219a33.388,33.388,0,0,1-10.607,24.6c-1.983,1.837-2.4,2.719-1.517,2.631a10.1,10.1,0,0,0,2.938-1.205c9.564-5.1,15.118-16.11,15.118-27.8V33.076c0-11.692-5.554-22.7-15.118-27.8A10.1,10.1,0,0,0,86.428,4.069Z" transform="translate(150.088 -4.063)" fill="url(#linear-gradient-5)"/>
+        <path id="rect5132-5" d="M21.041,4.069c.884-.088.467.794-1.517,2.631A33.389,33.389,0,0,0,8.917,31.3V497.225a33.389,33.389,0,0,0,10.607,24.6c1.983,1.837,2.4,2.718,1.517,2.631a10.1,10.1,0,0,1-2.938-1.205c-9.564-5.1-15.118-16.111-15.118-27.8V33.076c0-11.692,5.554-22.7,15.118-27.8A10.1,10.1,0,0,1,21.041,4.069Z" transform="translate(-2.985 -4.063)" fill="url(#linear-gradient-6)"/>
+      </g>
+      <g id="g5823" transform="translate(88.331 18.033)">
+        <rect id="rect5261" width="32.318" height="4.099" rx="0.721" transform="translate(31.2 2.255)" fill="#1e1e1e"/>
+        <circle id="path5263" cx="3.825" cy="3.825" r="3.825" transform="translate(72.566 0.216)" fill="#2b2b2b"/>
+        <circle id="path5265" cx="3.064" cy="3.064" r="3.064" transform="translate(73.326 0.976)" fill="#0a0d13"/>
+        <circle id="path5267" cx="2.335" cy="2.335" r="2.335" transform="translate(74.055 1.705)" fill="#091427"/>
+        <path id="path5271" d="M57.8,7.341c-.277.029-.67.452-.7,1.282s.335,1.282.539,1.282a1.892,1.892,0,0,0,.16-2.565Z" transform="translate(16.979 -4.862)" fill="rgba(35,90,145,0.56)" fill-rule="evenodd"/>
+        <path id="path5273" d="M58.377,7.281c-.437.134-.521.84-.5,1.243s.588,1.461,1.277,1.226a1.208,1.208,0,0,0,.521-1.7C59.385,7.466,58.864,7.046,58.377,7.281Z" transform="translate(18.394 -5.094)" fill="rgba(35,90,145,0.56)" fill-rule="evenodd"/>
+        <path id="path5267-7" d="M44.14,9.963a3.006,3.006,0,1,1,0-.044l-3.006.044Z" transform="translate(-18.018 -5.57)" fill="#0f0f0f"/>
+        <path id="path5267-7-9" d="M40.127,10.933a4.466,4.466,0,1,1,0-.066l-4.535.066Z" transform="translate(-31.057 -6.469)" fill="#101010"/>
+      </g>
+      <path id="rect5756" d="M26.136,2.577a33.235,33.235,0,0,0-17.754,5.1v4.28A30.994,30.994,0,0,1,25.448,6.876H214.926a30.994,30.994,0,0,1,17.066,5.078V7.674a33.235,33.235,0,0,0-17.753-5.1H26.136Z" transform="translate(15.458 4.386)" fill="url(#linear-gradient-7)"/>
+      <path id="rect5756-4" d="M26.136,194.464a33.235,33.235,0,0,1-17.754-5.1v-4.28a31,31,0,0,0,17.066,5.078H214.926a31,31,0,0,0,17.066-5.078v4.28a33.235,33.235,0,0,1-17.753,5.1H26.136Z" transform="translate(15.458 340.971)" fill="url(#linear-gradient-8)"/>
+      <path id="path5267-7-7" d="M74.265,11.76a6,6,0,1,1,0-.088L68.2,11.76Z" transform="translate(114.584 10.255)" fill="#0f0f0f"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 720, 1091)" filter="url(#Rectangle_34)">
+      <g id="Rectangle_34-2" data-name="Rectangle 34" transform="translate(33 195.54)" fill="#fff" stroke="#707070" stroke-width="0.2">
+        <rect width="102" height="185" rx="7" stroke="none"/>
+        <rect x="0.1" y="0.1" width="101.8" height="184.8" rx="6.9" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="89.011" height="17" rx="3" transform="translate(759 1293.539)" fill="#e0e0e0"/>
+    <text id="Active_Days" data-name="Active Days" transform="translate(762 1460.539)" font-size="7" font-family="Calibri"><tspan x="0" y="0">Active Days</tspan></text>
+    <text id="_6" data-name="6" transform="translate(846 1460.539)" font-size="7" font-family="Calibri"><tspan x="-3.548" y="0">6</tspan></text>
+    <line id="Line_12" data-name="Line 12" x2="102.233" transform="translate(753.312 1445.188)" fill="none" stroke="#746d7f" stroke-width="0.1"/>
+    <text id="M" transform="translate(765 1304.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="0" y="0">M</tspan></text>
+    <text id="Street_Run" data-name="Street Run" transform="translate(842 1304.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="-34.195" y="0">Street Run</tspan></text>
+    <text id="T" transform="translate(767 1327.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="0" y="0">T</tspan></text>
+    <text id="Hill_Sprints" data-name="Hill Sprints" transform="translate(842 1326.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="-34.742" y="0">Hill Sprints</tspan></text>
+    <text id="W" transform="translate(765 1348.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="0" y="0">W</tspan></text>
+    <text id="Yoga" transform="translate(842 1348.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="-14.969" y="0">Yoga</tspan></text>
+    <text id="T-2" data-name="T" transform="translate(767 1370.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="0" y="0">T</tspan></text>
+    <text id="Bike" transform="translate(842 1370.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="-13.547" y="0">Bike</tspan></text>
+    <text id="F" transform="translate(767 1392.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="0" y="0">F</tspan></text>
+    <text id="Frisbee" transform="translate(842 1392.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="-23.594" y="0">Frisbee</tspan></text>
+    <text id="S" transform="translate(767 1414.539)" fill="#8a2be2" font-size="8" font-family="Calibri"><tspan x="0" y="0">S</tspan></text>
+    <text id="Rest" transform="translate(842 1413.539)" fill="#8a2be2" font-size="8" font-family="Calibri"><tspan x="-13.902" y="0">Rest</tspan></text>
+    <text id="S-2" data-name="S" transform="translate(767 1436.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="0" y="0">S</tspan></text>
+    <text id="Upper_Body_Lift" data-name="Upper Body Lift" transform="translate(842 1435.539)" fill="#505050" font-size="8" font-family="Calibri"><tspan x="-50.445" y="0">Upper Body Lift</tspan></text>
+    <rect id="Rectangle_52" data-name="Rectangle 52" width="140" height="25" rx="12.5" transform="translate(842 1127)" fill="none"/>
+    <g id="Path_113" data-name="Path 113" transform="translate(755.857 1211.598)" fill="none">
+      <path d="M7.309,0H22.97a7.309,7.309,0,0,1,0,14.617H7.309A7.309,7.309,0,0,1,7.309,0Z" stroke="none"/>
+      <path d="M 7.308662414550781 0.5000028610229492 C 3.554353713989258 0.5000028610229492 0.5000019073486328 3.554352760314941 0.5000019073486328 7.308662891387939 C 0.5000019073486328 11.06297302246094 3.554353713989258 14.11732292175293 7.308662414550781 14.11732292175293 L 22.97008323669434 14.11732292175293 C 26.72439193725586 14.11732292175293 29.77874374389648 11.06297302246094 29.77874374389648 7.308662891387939 C 29.77874374389648 3.554352760314941 26.72439193725586 0.5000028610229492 22.97008323669434 0.5000028610229492 L 7.308662414550781 0.5000028610229492 M 7.308662414550781 2.86102294921875e-06 L 22.97008323669434 2.86102294921875e-06 C 27.00654220581055 2.86102294921875e-06 30.27874374389648 3.272202491760254 30.27874374389648 7.308662891387939 C 30.27874374389648 11.34512329101562 27.00654220581055 14.61732292175293 22.97008323669434 14.61732292175293 L 7.308662414550781 14.61732292175293 C 3.27220344543457 14.61732292175293 1.9073486328125e-06 11.34512329101562 1.9073486328125e-06 7.308662891387939 C 1.9073486328125e-06 3.272202491760254 3.27220344543457 2.86102294921875e-06 7.308662414550781 2.86102294921875e-06 Z" stroke="none" fill="#707070"/>
+    </g>
+    <text id="Motor" transform="translate(770.549 1220.965)" fill="#707070" font-size="7" font-family="Calibri"><tspan x="-9.042" y="0">Motor</tspan></text>
+    <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(791.878 1211.832)" fill="#707070" stroke="#707070" stroke-width="1">
+      <rect width="38.632" height="14.617" rx="7.309" stroke="none"/>
+      <rect x="0.5" y="0.5" width="37.632" height="13.617" rx="6.809" fill="none"/>
+    </g>
+    <text id="Motion" transform="translate(811.272 1220.906)" fill="#fff" font-size="7" font-family="Calibri"><tspan x="-10.473" y="0">Motion</tspan></text>
+    <g id="Rectangle_37-2" data-name="Rectangle 37" transform="translate(836.252 1211.832)" fill="none" stroke="#707070" stroke-width="0.5">
+      <rect width="33.411" height="14.617" rx="7.309" stroke="none"/>
+      <rect x="0.25" y="0.25" width="32.911" height="14.117" rx="7.059" fill="none"/>
+    </g>
+    <text id="Muscle" transform="translate(852.957 1221.141)" fill="#707070" font-size="7" font-family="Calibri"><tspan x="-10.225" y="0">Muscle</tspan></text>
+    <g id="Rectangle_37-3" data-name="Rectangle 37" transform="translate(875.405 1211.832)" fill="none" stroke="#707070" stroke-width="0.5">
+      <rect width="38.411" height="14.617" rx="7.309" stroke="none"/>
+      <rect x="0.25" y="0.25" width="37.911" height="14.117" rx="7.059" fill="none"/>
+    </g>
+    <text id="Sports" transform="translate(895.5 1221)" fill="#707070" font-size="7" font-family="Calibri"><tspan x="-9.054" y="0">Sports</tspan></text>
+    <g id="Group_223" data-name="Group 223" transform="translate(752.857 1180.275)">
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="208" height="21" rx="4" transform="translate(0.143 -0.275)" fill="#f0f0f0"/>
+      <text id="Search_for_Workouts" data-name="Search for Workouts" transform="translate(17.143 12.725)" fill="#767171" font-size="8" font-family="Calibri"><tspan x="0" y="0">Search for Workouts</tspan></text>
+    </g>
+    <g id="Group_410" data-name="Group 410" transform="translate(762.37 1187.346)">
+      <g id="search">
+        <g id="Group_407" data-name="Group 407">
+          <g id="Group_406" data-name="Group 406">
+            <path id="Path_64" data-name="Path 64" d="M2.646,0A2.745,2.745,0,0,0,0,2.828,2.745,2.745,0,0,0,2.646,5.657,2.745,2.745,0,0,0,5.292,2.828,2.745,2.745,0,0,0,2.646,0Zm0,5.134A2.238,2.238,0,0,1,.489,2.828,2.238,2.238,0,0,1,2.646.522,2.238,2.238,0,0,1,4.8,2.828,2.238,2.238,0,0,1,2.646,5.134Z" fill="#707070"/>
+          </g>
+        </g>
+        <g id="Group_409" data-name="Group 409" transform="translate(4.211 4.575)">
+          <g id="Group_408" data-name="Group 408">
+            <path id="Path_65" data-name="Path 65" d="M352.9,352.568l-1.43-1.448a.247.247,0,0,0-.353,0,.255.255,0,0,0,0,.357l1.43,1.448a.247.247,0,0,0,.353,0A.255.255,0,0,0,352.9,352.568Z" transform="translate(-351.046 -351.046)" fill="#707070"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_52-2" data-name="Rectangle 52" width="73" height="13" rx="6.5" transform="translate(797 1156)" fill="#f3e9fc"/>
+    <text id="Build" transform="translate(833 1165)" fill="#8a2be2" font-size="7" font-family="Calibri"><tspan x="-7.188" y="0">Build</tspan></text>
+    <rect id="Rectangle_52-3" data-name="Rectangle 52" width="73" height="13" rx="6.5" transform="translate(850 1156)" fill="none"/>
+    <text id="Explore" transform="translate(917 1165)" fill="#505050" font-size="7" font-family="Calibri"><tspan x="-10.628" y="0">Explore</tspan></text>
+    <path id="Path_69" data-name="Path 69" d="M53.878,66.681a.486.486,0,1,0,.688-.688L52.7,64.124H58.11a.486.486,0,0,0,0-.973H52.7l1.87-1.869a.486.486,0,0,0-.688-.688l-2.7,2.7a.486.486,0,0,0,0,.688Z" transform="translate(707.953 1098.637)" fill="#707070"/>
+    <circle id="Ellipse_58" data-name="Ellipse 58" cx="10" cy="10" r="10" transform="translate(753 1152)" fill="none"/>
+    <text id="Motion-2" data-name="Motion" transform="translate(874.333 1266)" font-size="18" font-family="Calibri"><tspan x="0" y="0">Motion</tspan></text>
+    <g id="Group_2166" data-name="Group 2166" transform="translate(874 1287)">
+      <text id="Yoga-2" data-name="Yoga" transform="translate(0 9)" fill="#746d7f" font-size="9" font-family="Calibri"><tspan x="0" y="0">Yoga</tspan></text>
+      <line id="Line_13" data-name="Line 13" x2="86.616" transform="translate(0.384 15.518)" fill="none" stroke="#e2dbe2" stroke-width="0.5"/>
+    </g>
+    <g id="Group_2165" data-name="Group 2165" transform="translate(874 1318)">
+      <text id="Barre" transform="translate(0 9)" fill="#746d7f" font-size="9" font-family="Calibri"><tspan x="0" y="0">Barre</tspan></text>
+      <line id="Line_13-2" data-name="Line 13" x2="86.616" transform="translate(0.384 15.518)" fill="none" stroke="#e2dbe2" stroke-width="0.5"/>
+    </g>
+    <g id="Group_2164" data-name="Group 2164" transform="translate(874 1349)">
+      <text id="Plyometrics" transform="translate(0 9)" fill="#746d7f" font-size="9" font-family="Calibri"><tspan x="0" y="0">Plyometrics</tspan></text>
+      <line id="Line_13-3" data-name="Line 13" x2="86.616" transform="translate(0.384 15.517)" fill="none" stroke="#e2dbe2" stroke-width="0.5"/>
+    </g>
+    <g id="Group_2163" data-name="Group 2163" transform="translate(874 1380)">
+      <text id="Pilates" transform="translate(0 9)" fill="#746d7f" font-size="9" font-family="Calibri"><tspan x="0" y="0">Pilates</tspan></text>
+      <line id="Line_13-4" data-name="Line 13" x2="86.616" transform="translate(0.384 15.517)" fill="none" stroke="#e2dbe2" stroke-width="0.5"/>
+    </g>
+    <g id="Group_2162" data-name="Group 2162" transform="translate(874 1411)">
+      <text id="Zumba" transform="translate(0 9)" fill="#746d7f" font-size="9" font-family="Calibri"><tspan x="0" y="0">Zumba</tspan></text>
+      <line id="Line_13-5" data-name="Line 13" x2="86.616" transform="translate(0.384 15.518)" fill="none" stroke="#e2dbe2" stroke-width="0.5"/>
+    </g>
+    <g id="Group_2161" data-name="Group 2161" transform="translate(874 1442)">
+      <text id="Dance_Class" data-name="Dance Class" transform="translate(0 9)" fill="#746d7f" font-size="9" font-family="Calibri"><tspan x="0" y="0">Dance Class</tspan></text>
+      <line id="Line_13-6" data-name="Line 13" x2="86.616" transform="translate(0.384 15.518)" fill="none" stroke="#e2dbe2" stroke-width="0.5"/>
+    </g>
+    <g id="Group_2160" data-name="Group 2160" transform="translate(874 1473)">
+      <text id="Ballet" transform="translate(0 9)" fill="#746d7f" font-size="9" font-family="Calibri"><tspan x="0" y="0">Ballet</tspan></text>
+      <line id="Line_13-7" data-name="Line 13" x2="86.616" transform="translate(0.384 15.517)" fill="none" stroke="#e2dbe2" stroke-width="0.5"/>
+    </g>
+    <g id="Group_2159" data-name="Group 2159" transform="translate(874 1504)">
+      <text id="Hot_Yoga" data-name="Hot Yoga" transform="translate(0 9)" fill="#746d7f" font-size="9" font-family="Calibri"><tspan x="0" y="0">Hot Yoga</tspan></text>
+      <line id="Line_13-8" data-name="Line 13" x2="86.616" transform="translate(0.384 15.518)" fill="none" stroke="#e2dbe2" stroke-width="0.5"/>
+    </g>
+    <text id="My_Week" data-name="My Week" transform="translate(756 1266)" font-size="18" font-family="Calibri"><tspan x="0" y="0">My Week</tspan></text>
+    <g id="Group_1252" data-name="Group 1252" transform="translate(732 846.127)">
+      <g transform="matrix(1, 0, 0, 1, -12, 244.87)" filter="url(#Rectangle_11)">
+        <rect id="Rectangle_11-2" data-name="Rectangle 11" width="207" height="23" rx="4" transform="translate(33 468)" fill="#8a2be2"/>
+      </g>
+      <text id="Finalize" transform="translate(125 727.874)" fill="#fff" font-size="10" font-family="Calibri"><tspan x="-15.112" y="0">Finalize</tspan></text>
+    </g>
+  </g>
+</svg>

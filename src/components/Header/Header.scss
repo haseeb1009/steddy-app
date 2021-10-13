@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 130px;
+  padding: 0 100px;
+  box-shadow: 0px 3px 6px #cecaca;
+  position: sticky;
+  top: 0;
+  background-color: white;
+
+  h2 {
+    font-size: 30px;
+    font-weight: normal;
+  }
+  img {
+    cursor: pointer;
+  }
+}
