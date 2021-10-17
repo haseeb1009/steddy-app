@@ -1,10 +1,13 @@
 import { Link } from "react-router-dom";
+import signal from "../../signal.svg";
 
 import "./Footer.scss";
 
 function Footer() {
   return (
     <div className="root">
+      <img className='mobile-image' src={signal} alt="Signal" />
+
       <div className="links-container">
         <a href="/" className="primary">
           ABOUT

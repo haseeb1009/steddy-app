@@ -5,8 +5,11 @@
   gap: 100px;
   height: 200px;
   background-color: #f7f6f4;
-  padding: 0 200px;
+  padding: 0 100px;
 
+  .mobile-image{
+    display: none;
+  }
   .links-container {
     display: flex;
     flex-direction: column;
@@ -20,6 +23,15 @@
     .primary {
       color: #8a2be2;
       margin-bottom: 15px;
+    }
+  }
+}
+
+@media (max-width: 800px) {
+  .root{
+  justify-content: space-between;
+    .mobile-image{
+      display: unset;
     }
   }
 }

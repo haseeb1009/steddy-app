@@ -1,12 +1,19 @@
+import React, { useEffect } from "react";
 import Footer from "../components/Footer/Footer";
 import Header from "../components/Header/Header";
 
 import "./Privacy.scss";
 
 const Privacy = () => {
+  useEffect(() => {
+    setTimeout(() => {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }, 0);
+  }, []);
+  
   return (
     <>
-      <Header />
+      <Header title="Steddy’s Privacy Policy" />
       <div className="privacy-root">
         <div className="privacy-content">
           <h2>Privacy Policy</h2>

@@ -14,9 +14,15 @@ const Contact = () => {
     }
   }, [state.succeeded]);
 
+  useEffect(() => {
+    setTimeout(() => {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    }, 0);
+  }, []);
+
   return (
     <>
-      <Header />
+      <Header title="Contact Us" />
       <div className="contact-root">
         <h2 className="title">We appreciate your feedback!</h2>
         <form onSubmit={handleSubmit}>
