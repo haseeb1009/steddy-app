@@ -5,7 +5,9 @@
   gap: 100px;
   height: 200px;
   background-color: #f7f6f4;
-  padding: 0 100px;
+  padding: 0 9%;
+  box-shadow: 0px 0px 10px 1px #cecaca;
+
 
   .mobile-image{
     display: none;
@@ -16,6 +18,7 @@
     a {
       cursor: pointer;
       text-decoration: none;
+      white-space: nowrap;
       font-size: 16px;
       color: black;
       padding: 5px;

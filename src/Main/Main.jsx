@@ -25,7 +25,7 @@ const Main = () => {
     <div className="app">
       <div className="section1">
         <p>
-          It’s time to go <strong className="title"> steddy </strong> with your
+          It’s time to go <br /> <strong className="title"> steddy </strong> with your <br />
           exercise routine.
         </p>
         <img className="web-image" src={qrCode} alt="QR Code" />
@@ -41,7 +41,7 @@ const Main = () => {
         <p>
           Planning makes it possible to get the hard stuff done. But planning
           itself? That part should be easy.
-          <br /> <strong> Steddy </strong>is the fastest and simplest way to
+          <br /> <strong className="title"> Steddy </strong>is the fastest and simplest way to
           build a weekly fitness regimen.
           <br />
           <strong>
