@@ -1,7 +1,9 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useRef } from "react";
 
-import qrCode from "../qr-code.svg";
-import signal from "../signal.svg";
+// import qrCode from "../qr-code.svg";
+import qrCode from "../qr-code-2.svg";
+// import signal from "../signal.svg";
+import signal from "../signal-2.svg";
 import plan1 from "../plan1.svg";
 import plan2 from "../plan2.svg";
 import img1 from "../img1.svg";
@@ -15,18 +17,31 @@ import Footer from "../components/Footer/Footer";
 import "./Main.scss";
 
 const Main = () => {
+
   useEffect(() => {
     setTimeout(() => {
       window.scrollTo({ top: 0, behavior: "smooth" });
     }, 0);
+
+    // section2ref = useRef();
+
+    // section2ref.current.animate(
+    //   {
+    //     opacity: [0, 1],
+    //   },
+    //   1000
+    // );
+
   }, []);
 
   return (
     <div className="app">
-      <div className="section1">
+      <div className="section1" style = {{
+        marginTop: '16vh', 
+        marginBottom: '18vh',
+      }}>
         <p>
-          It’s time to go <br /> <strong className="title"> steddy </strong> with your <br />
-          exercise routine.
+          It’s time to go <br /> <strong className="title"> steddy </strong> with your <br /> exercise routine.
         </p>
         <img className="web-image" src={qrCode} alt="QR Code" />
         <img className="mobile-image" src={plan1} alt="plan1" />
@@ -36,17 +51,17 @@ const Main = () => {
           <img src={playStore} alt="Play Store" />
       </div>
 
-      <div className="section2">
-        <img src={signal} alt="Signal" />
-        <p>
-          Planning makes it possible to get the hard stuff done. But planning
-          itself? That part should be easy.
-          <br /> <strong className="title"> Steddy </strong>is the fastest and simplest way to
-          build a weekly fitness regimen.
+      <div 
+        className="section2"
+        // ref = {section2ref}
+        >
+        <img src={signal} alt="Signal" height = {100}/>
+        <p> Steddy is the simplest way to build a weekly fitness plan.
           <br />
-          <strong>
-            Scan the QR code to see how far a little commitment can take you.
-          </strong>
+            <span style = {{ color: 'black', backgroundColor: '#e8d4f9', fontWeight: 700 }}>
+            Scan the QR code 
+            </span>
+          {' '}to see how far a little commitment can take you.
         </p>
       </div>
 
@@ -56,11 +71,11 @@ const Main = () => {
             <img className="icon" src={img1} alt="Signal" />
             <h2 className="heading">Plan Flexibly</h2>
             <p className="description">
-              Most health and fitness apps are pretty niche: map your runs in
+              {/* Most health and fitness apps are pretty niche: map your runs in
               one and follow that lifting routine that Arnold himself programmed
               just for you in another.
               <br />
-              <br />
+              <br /> */}
               Steddy lets users plan and record any type of workout, whether it
               be yoga class, leg day at the gym, or your company softball game.
             </p>
@@ -123,7 +138,8 @@ const Main = () => {
               Steddy provides an easy way to track your own effort, activity
               streaks, and even your own discipline over time.
             </p>
-            <p className="mobile-description">
+            <p className="mobile-description"> 
+            {/* use this styling pattern throughout */}
               Steddy provides an easy way to track your own effort, activity
               streaks, and even your own discipline over time.
             </p>

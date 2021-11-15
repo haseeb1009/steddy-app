@@ -4,16 +4,25 @@
   }
   .section1 {
     min-height: 500px;
+    // min-height: 12vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 9%;
+    padding: 0 calc(5% + 3vw) 0 calc(5% + 5vw);
+    margin-top: 10;
+    // border-style: 'solid',
+    border-width: 1px;
+    border-color: black;
     p {
-      font-size: 75px;
+      // font-size: 75px;
+      // font-size: calc(10px + 6vw);
+      line-height: 9vw;
+      font-size: calc(5.2vw + 1.8vh);
       margin: 0;
+      color: #242424;
     }
     .web-image {
-      width: 27%;
+      width: calc(26vw);
     }
     .mobile-image {
       display: none;
@@ -27,7 +36,7 @@
     .section1 {
       flex-direction: column;
       p {
-        margin:25px 0;
+        margin: 25px 0;
         font-size: 35px;
       }
       .web-image {
@@ -51,18 +60,27 @@
 
   .section2 {
     display: flex;
+    align-self: center;
     align-items: center;
-    min-height: 233px;
+    min-height: 180px;
     background-color: #f7f6f4;
-    padding: 0 9%;
-    box-shadow: 0px 0px 10px 1px #cecaca;
+    padding: 0 0 0 5%;
+    margin: 0 9%;
+    border-radius: 40px;
+    // box-shadow: 0px 10px 10px 1px #cecaca;
     img {
       margin-right: 75px;
     }
     p {
       line-height: 2;
+      font-size: calc(6px + 1.2vw);
+      color: #505050;
+    }
+    scanTheCode {
+      font-size: calc(200px + 0.9vw);
     }
   }
+
   @media (max-width: 800px) {
     .section2 {
       img {
@@ -70,7 +88,6 @@
       }
     }
   }
-
   .section3 {
     display: flex;
     justify-content: center;
@@ -89,7 +106,7 @@
 
       .icon {
         grid-area: icon;
-        width:135px;
+        width: 135px;
       }
       .heading {
         grid-area: heading;
@@ -134,8 +151,8 @@
           text-align: right;
           margin-top: 0;
         }
-        .icon{
-          width:60px;
+        .icon {
+          width: 60px;
         }
       }
       .reverse {
@@ -171,7 +188,7 @@
 
       .icon {
         grid-area: icon;
-        width:135px;
+        width: 135px;
       }
       .heading {
         grid-area: heading;
@@ -217,8 +234,8 @@
           text-align: right;
           margin-top: 0;
         }
-        .icon{
-          width:60px;
+        .icon {
+          width: 60px;
         }
       }
       .reverse {
