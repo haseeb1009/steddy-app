@@ -39,8 +39,8 @@ const Main = () => {
       </div>
 
       <div className="section2" >
-        <img src={signal} alt="Signal" height = {100}/>
-        <p> Steddy is the simplest way to build a weekly fitness plan.
+        <img src={signal} alt="Signal" />
+        <p> Steddy is the simplest way to build a weekly exercise plan.
           <br />
             <span style = {{ color: 'black', backgroundColor: '#e8d4f9', fontWeight: 700 }}>
             Scan the QR code 
@@ -49,57 +49,43 @@ const Main = () => {
         </p>
       </div>
 
+    
       <div className="section3">
         <div>
-          
           <div className="details-container">
-            <img className="icon" src={img1} alt="Hammer" />
+            {/* HAMMER */}
+            <img className="icon" src={img1} alt="Hammer" /> 
             <h2 className="heading">Plan Flexibly</h2>
-                <p className="description">
-                  Steddy lets users plan any type of workout, whether it be yoga class, leg day, or a company softball game.
-                </p>
-                <p className="mobile-description">
-                  Steddy lets users plan any type of workout, whether it be yoga class, leg day, or a company softball game.
-                </p>
+            <p className="description">Plan any type of workout, be it yoga class, leg day, or your company softball game.</p>
+            <p className="mobile-description">Plan any type of workout, be it yoga class, leg day, or your company softball game.</p>
           </div>
-
           <div className="details-container reverse">
+            {/* MAGNIFYING GLASS */}
             <img className="icon" src={img2} alt="Magnifier" />
             <h2 className="heading">Find Routines</h2>
-            <p className="description">
-              Not sure where to start? Use the Explore option to find preset plans based on the results you're looking for.
-            </p>
-            <p className="mobile-description">
-              Not sure where to start? Use the Explore option to find preset plans based on the results you're looking for.
-            </p>
+            <p className="description">Not sure where to start? Explore our presets to find plans based on the results you're looking for.</p>
+            <p className="mobile-description">Not sure where to start? Explore our presets to find plans based on the results you're looking for.</p>
           </div>
-
-      </div>
-        <img className="section3-image" src={plan1} alt="PalmTree" />
+        </div>
+        <img className="section3-image" src={plan1} alt="SCREENSHOT" />
       </div>
 
       <div className="section4">
-        <img className="section4-image" src={plan2} alt="Data" />
+        <img className="section4-image" src={plan2} alt="SCREENSHOT" />
         <div>
           <div className="details-container">
             <h2 className="heading">Kick Back</h2>
-            <p className="description">
-              Steddy helps you stay intentional about your exercise AND your time off by letting you schedule the breaks you need :)
-            </p>
-            <p className="mobile-description">
-              Steddy helps you stay intentional about your exercise AND your time off by letting you schedule the breaks you need :)
-            </p>
-            <img src={img3} alt="Signal" className="icon" />
+            <p className="description">Stay intentional about your exercise and your sanity by scheduling unplanned time :D</p>
+            <p className="mobile-description">Stay intentional about your exercise and your sanity by scheduling unplanned time :D</p>
+            {/* PALM TREE */}
+            <img src={img3} alt="palmTree" className="icon" />
           </div>
           <div className="details-container reverse">
             <h2 className="heading">Track Progress</h2>
-            <p className="description">
-              Week streaks, follow-through rates, intensity scores, and not much more. You won't be buried in a pile of statistics, but you'll know how you're doing.
-            </p>
-            <p className="mobile-description"> 
-              Week streaks, follow-through rates, intensity scores, and not much more. You won't be buried in a pile of statistics, but you'll know how you're doing.
-            </p>
-            <img src={img4} alt="Signal" width="15px" className="icon" />
+            <p className="description">Track your streaks, follow-through, and more so you know exactly how you're doing.</p>
+            <p className="mobile-description">Track your streaks, follow-through, and more so you know exactly how you're doing.</p>
+            {/* DATA */}
+            <img src={img4} alt="data" className="icon" />
           </div>
         </div>
       </div>
