@@ -22,24 +22,11 @@ const Main = () => {
     setTimeout(() => {
       window.scrollTo({ top: 0, behavior: "smooth" });
     }, 0);
-
-    // section2ref = useRef();
-
-    // section2ref.current.animate(
-    //   {
-    //     opacity: [0, 1],
-    //   },
-    //   1000
-    // );
-
   }, []);
 
   return (
     <div className="app">
-      <div className="section1" style = {{
-        marginTop: '16vh', 
-        marginBottom: '18vh',
-      }}>
+      <div className="section1">
         <p>
           It’s time to go <br /> <strong className="title"> steddy </strong> with your <br /> exercise routine.
         </p>
@@ -51,10 +38,7 @@ const Main = () => {
           <img src={playStore} alt="Play Store" />
       </div>
 
-      <div 
-        className="section2"
-        // ref = {section2ref}
-        >
+      <div className="section2" >
         <img src={signal} alt="Signal" height = {100}/>
         <p> Steddy is the simplest way to build a weekly fitness plan.
           <br />
@@ -67,83 +51,55 @@ const Main = () => {
 
       <div className="section3">
         <div>
+          
           <div className="details-container">
-            <img className="icon" src={img1} alt="Signal" />
+            <img className="icon" src={img1} alt="Hammer" />
             <h2 className="heading">Plan Flexibly</h2>
-            <p className="description">
-              {/* Most health and fitness apps are pretty niche: map your runs in
-              one and follow that lifting routine that Arnold himself programmed
-              just for you in another.
-              <br />
-              <br /> */}
-              Steddy lets users plan and record any type of workout, whether it
-              be yoga class, leg day at the gym, or your company softball game.
-            </p>
-            <p className="mobile-description">
-              Steddy lets users plan and record any type of workout, whether it
-              be yoga class, leg day at the gym, or your company softball game.
-            </p>
+                <p className="description">
+                  Steddy lets users plan any type of workout, whether it be yoga class, leg day, or a company softball game.
+                </p>
+                <p className="mobile-description">
+                  Steddy lets users plan any type of workout, whether it be yoga class, leg day, or a company softball game.
+                </p>
           </div>
+
           <div className="details-container reverse">
-            <img className="icon" src={img2} alt="Signal" />
+            <img className="icon" src={img2} alt="Magnifier" />
             <h2 className="heading">Find Routines</h2>
             <p className="description">
-              Not sure where to start? We’ve got you covered.
-              <br />
-              <br />
-              Choose from 9 preset plans tailored to 3 themes (cardio health;
-              energy and focus; physique) until you’ve developed the intuitions
-              you need to go rogue and write your own programs.
+              Not sure where to start? Use the Explore option to find preset plans based on the results you're looking for.
             </p>
             <p className="mobile-description">
-              Choose from 9 preset plans tailored to 3 themes (cardio health;
-              energy and focus; physique) until you’ve developed the intuitions
-              you need to go rogue.
+              Not sure where to start? Use the Explore option to find preset plans based on the results you're looking for.
             </p>
           </div>
-        </div>
-        <img className="section3-image" src={plan1} alt="Signal" />
+
+      </div>
+        <img className="section3-image" src={plan1} alt="PalmTree" />
       </div>
 
       <div className="section4">
-        <img className="section4-image" src={plan2} alt="Signal" />
+        <img className="section4-image" src={plan2} alt="Data" />
         <div>
           <div className="details-container">
             <h2 className="heading">Kick Back</h2>
             <p className="description">
-              Who says your fitness planner can’t be your vacation planner too?
-              Well, we’re not booking flights quite yet, but we do understand
-              that a break week is in order every so often.
-              <br />
-              <br />
-              Steddy helps users stay intentional about when they take breaks
-              from their exercise routine, and helps user ease back into the
-              swing of things when the time finally comes.
+              Steddy helps you stay intentional about your exercise AND your time off by letting you schedule the breaks you need :)
             </p>
             <p className="mobile-description">
-              Steddy helps users stay intentional about when they take breaks
-              from their exercise routine, and helps user ease back into the
-              swing of things when the time finally comes.
+              Steddy helps you stay intentional about your exercise AND your time off by letting you schedule the breaks you need :)
             </p>
-            <img width="95px" src={img3} alt="Signal" className="icon" />
+            <img src={img3} alt="Signal" className="icon" />
           </div>
           <div className="details-container reverse">
             <h2 className="heading">Track Progress</h2>
             <p className="description">
-              We’re of the mindset that, for most people, it’s not too important
-              to overanalyze as long as you’re getting active every day, but
-              we’ll throw you a bone (and a few stats):
-              <br />
-              <br />
-              Steddy provides an easy way to track your own effort, activity
-              streaks, and even your own discipline over time.
+              Week streaks, follow-through rates, intensity scores, and not much more. You won't be buried in a pile of statistics, but you'll know how you're doing.
             </p>
             <p className="mobile-description"> 
-            {/* use this styling pattern throughout */}
-              Steddy provides an easy way to track your own effort, activity
-              streaks, and even your own discipline over time.
+              Week streaks, follow-through rates, intensity scores, and not much more. You won't be buried in a pile of statistics, but you'll know how you're doing.
             </p>
-            <img src={img4} alt="Signal" width className="icon" />
+            <img src={img4} alt="Signal" width="15px" className="icon" />
           </div>
         </div>
       </div>
