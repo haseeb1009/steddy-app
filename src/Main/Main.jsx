@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from "react";
+import React, { useEffect } from "react";
 
 // import qrCode from "../qr-code.svg";
 import qrCode from "../qr-code-2.svg";
