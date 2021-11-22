@@ -1,5 +1,6 @@
 .app {
   // background-image: url("../colorful.jpg");
+  // background-color: #f7f6f4;
   // background-repeat: no-repeat;
   // background-attachment: fixed;
   // background-size: cover;
@@ -8,11 +9,12 @@
   }
   .shell {
     background-image: url("../colorful.jpg");
+    background-color: #f7f6f4;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: auto;
-    background-position-x: -20ex;
-    background-position-y: -40ex;
+    background-position-x: -40ex;
+    background-position-y: -50ex;
     // background-blend-mode: color-burn;
   }
   .section1 {
@@ -21,29 +23,19 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16vh calc(5% + 3vw) 0 calc(5% + 5vw);
+    padding: 16vh calc(5% + 3vw) 0 calc(4% + 5vw);
     // margin-top: 16vh;
     margin-bottom: 18vh;
     border-width: 1px;
     border-color: black;
     p {
-      // font-size: 75px;
-      // font-size: calc(10px + 6vw);
-
-      // border-radius: 10px;
-      // border-width: 10px;
-      // padding: 25px;
-      // outline: gray;
-      // background-color: white;
-      // box-shadow: 10px 5px 5px red;
-
-      line-height: 9vw;
+      line-height: 8.5vw;
       font-size: calc(5.2vw + 1.8vh);
       margin: 0;
       color: #242424;
     }
     .web-image {
-      width: calc(26vw);
+      width: calc(29vw);
     }
     .mobile-image {
       display: none;
@@ -105,7 +97,7 @@
       height: 9vw;
     }
     p {
-      line-height: 2;
+      line-height: 3.8vw;
       font-size: calc(12px + 1.2vw);
       color: #303030;
     }
@@ -155,8 +147,9 @@
         color: #505050;
         margin-bottom: 150px;
         margin-top: -80px;
-        background: #f0f0f0;
-        border-radius: 20px;
+        background: #f7f6f7;
+        box-shadow: 2px 5px 10px 3px rgba(0, 0, 0, 0.2); /* offset-x | offset-y | blur-radius | spread-radius | color */
+        border-radius: 15px;
         padding: calc(1.6vw + 5px);
       }
       .mobile-description {
@@ -202,8 +195,9 @@
         color: #505050;
         margin-bottom: 150px;
         margin-top: -80px;
-        background: #f0f0f0;
-        border-radius: 20px;
+        background: #f7f6f7;
+        box-shadow: 2px 5px 10px 3px rgba(0, 0, 0, 0.2); /* offset-x | offset-y | blur-radius | spread-radius | color */
+        border-radius: 15px;
         padding: calc(1.6vw + 5px);
       }
       .mobile-description {
