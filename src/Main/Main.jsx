@@ -10,6 +10,7 @@ import img1 from "../img1.svg";
 import img2 from "../img2.svg";
 import img3 from "../img3.svg";
 import img4 from "../img4.svg";
+import colorful from "../colorful.jpg";
 import appStore from "../app-store.svg";
 import playStore from "../play-store.svg";
 
@@ -24,8 +25,17 @@ const Main = () => {
     }, 0);
   }, []);
 
+
   return (
     <div className="app">
+      <div className = "shell" 
+        //   style = {{
+        //     backgroundImage: 'url("../colorful.jpg")',
+        //     width: '100%', height: '100%',
+        //     backgroundRepeat: 'no-repeat',
+        //     backgroundAttachment: 'fixed'
+        // }}
+        >
       <div className="section1" >
         <p>
           It’s time to go <br /> <strong className="title"> steddy </strong> with your <br /> exercise routine.
@@ -42,7 +52,7 @@ const Main = () => {
         <img src={signal} alt="Signal" />
         <p> Steddy is the simplest way to build a weekly exercise plan.
           <br />
-            <span style = {{ color: 'black', backgroundColor: '#e8d4f9', fontWeight: 700 }}>
+            <span style = {{ color: 'black', textDecoration: 'underline', fontWeight: 700 }}>
             Scan the QR code 
             </span>
           {' '}to see how far a little commitment can take you.
@@ -95,6 +105,7 @@ const Main = () => {
       </div>
 
       <Footer />
+      </div>
     </div>
   );
 };
