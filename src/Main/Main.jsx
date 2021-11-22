@@ -26,7 +26,7 @@ const Main = () => {
 
   return (
     <div className="app">
-      <div className="section1">
+      <div className="section1" >
         <p>
           It’s time to go <br /> <strong className="title"> steddy </strong> with your <br /> exercise routine.
         </p>
@@ -56,8 +56,12 @@ const Main = () => {
             {/* HAMMER */}
             <img className="icon" src={img1} alt="Hammer" /> 
             <h2 className="heading">Plan Flexibly</h2>
-            <p className="description">Plan any type of workout, be it yoga class, leg day, or your company softball game.</p>
-            <p className="mobile-description">Plan any type of workout, be it yoga class, leg day, or your company softball game.</p>
+            <p className="description">
+              <span style = {{ color: 'black', backgroundColor: '#e8d4f9', fontWeight: 700 }}>Plan any type of workout</span>{' '}
+              be it yoga class, leg day, or your company softball game.</p>
+            <p className="mobile-description">
+              <span style = {{ color: 'black', backgroundColor: '#e8d4f9', fontWeight: 700 }}>Plan any type of workout</span>{' '}
+              be it yoga class, leg day, or your company softball game.</p>
           </div>
           <div className="details-container reverse">
             {/* MAGNIFYING GLASS */}
@@ -82,8 +86,8 @@ const Main = () => {
           </div>
           <div className="details-container reverse">
             <h2 className="heading">Track Progress</h2>
-            <p className="description">Track your streaks, follow-through, and more so you know exactly how you're doing.</p>
-            <p className="mobile-description">Track your streaks, follow-through, and more so you know exactly how you're doing.</p>
+            <p className="description">We track your streaks, follow-through, and more so you know exactly how you're doing.</p>
+            <p className="mobile-description">We track your streaks, follow-through, and more so you know exactly how you're doing.</p>
             {/* DATA */}
             <img src={img4} alt="data" className="icon" />
           </div>

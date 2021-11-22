@@ -1,4 +1,8 @@
 .app {
+  background-image: url("../colorful.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   .title {
     color: #8a2be2;
   }
@@ -8,8 +12,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 calc(5% + 3vw) 0 calc(5% + 5vw);
-    margin-top: 16vh;
+    padding: 16vh calc(5% + 3vw) 0 calc(5% + 5vw);
+    // margin-top: 16vh;
     margin-bottom: 18vh;
     border-width: 1px;
     border-color: black;
@@ -36,12 +40,11 @@
   @media only screen and (max-width: 800px) {
     .section1 {
       height: 450px;
-      padding: 0;
+      padding-top: 70px;
       justify-content: flex-start;
       // background: blue;
       flex-direction: column;
       text-align: center;
-      margin-top: 70px;
       p {
         margin-top: 0px;
         margin-bottom: 30px;
