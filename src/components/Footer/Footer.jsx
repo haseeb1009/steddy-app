@@ -6,9 +6,8 @@ import "./Footer.scss";
 function Footer() {
   return (
     <div className="root">
-      <img className='mobile-image' src={signal} alt="Signal" />
 
-      <div className="links-container">
+      <div className="links-container" >
         <a href="/" className="primary">
           ABOUT
         </a>
