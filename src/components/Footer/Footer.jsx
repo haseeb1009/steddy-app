@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import signal from "../../signal.svg";
 
 import "./Footer.scss";
 

@@ -1,8 +1,5 @@
 import React, { useEffect } from "react";
 
-// import qrCode from "../qr-code.svg";
-
-// import signal from "../signal.svg";
 import signal from "../signal-2.svg";
 import plan1 from "../plan1.svg";
 import plan2 from "../plan2.svg";
@@ -10,7 +7,6 @@ import img1 from "../img1.svg";
 import img2 from "../img2.svg";
 import img3 from "../img3.svg";
 import img4 from "../img4.svg";
-import colorful from "../colorful.jpg";
 import appStore from "../app-store.svg";
 import playStore from "../play-store.svg";
 
