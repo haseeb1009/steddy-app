@@ -1,9 +1,21 @@
+@font-face {
+  font-family: Calibri;
+  src: url('./font/Calibri-Regular.ttf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Calibri;
+  src: url('./font/Calibri-Bold.ttf');
+  font-style: bold;
+}
+
 body {
   margin: 0;
-  font-family: 'Calibri';
+  font-family: "Calibri";
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
