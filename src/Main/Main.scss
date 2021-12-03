@@ -228,7 +228,7 @@
           display: none;
         }
         .mobile-description {
-          height: 75px;
+          height: fit-content;
           display: unset;
           margin: 0;
           grid-area: description;
@@ -282,7 +282,7 @@
           display: none;
         }
         .mobile-description {
-          height: 75px;
+          height: fit-content;
           display: unset;
           margin: 0;
           grid-area: description;
@@ -308,7 +308,7 @@
           display: none;
         }
         .mobile-description {
-          height: 75px;
+          height: fit-content;
           display: unset;
           margin: 0;
           grid-area: description;
