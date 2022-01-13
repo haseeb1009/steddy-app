@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 width="2196px" height="2196px" viewBox="0 0 2196 2196" enable-background="new 0 0 2196 2196" xml:space="preserve">
-<rect x="0" y="0" width="2196" height="2196" fill="rgb(255,255,255)" /><g transform="translate(72,72)"><g transform="translate(288,0) scale(0.36,0.36)"><g transform="" style="fill: rgb(138, 43, 226);">
+<rect x="0" y="0" width="2196" height="2196" fill="rgb(247,246,244)" /><g transform="translate(72,72)"><g transform="translate(288,0) scale(0.36,0.36)"><g transform="" style="fill: rgb(138, 43, 226);">
 <rect width="100" height="100"/>
 </g></g><g transform="translate(360,0) scale(0.36,0.36)"><g transform="" style="fill: rgb(138, 43, 226);">
 <rect width="100" height="100"/>
@@ -2816,9 +2816,9 @@ width="2196px" height="2196px" viewBox="0 0 2196 2196" enable-background="new 0 
      inkscape:window-maximized="0"
      inkscape:window-y="25"
      inkscape:window-x="0"
-     inkscape:cy="148.91337"
-     inkscape:cx="-60.185527"
-     inkscape:zoom="1.1628023"
+     inkscape:cy="-36.899822"
+     inkscape:cx="-272.51742"
+     inkscape:zoom="0.61379082"
      showgrid="false"
      id="namedview3904"
      inkscape:window-height="847"
@@ -2838,11 +2838,9 @@ width="2196px" height="2196px" viewBox="0 0 2196 2196" enable-background="new 0 
      id="g4480"
      transform="translate(-982.36947,-73.406067)">
     <g
-       inkscape:export-ydpi="96.000008"
-       inkscape:export-xdpi="96.000008"
-       id="g2053">
+       id="g2083">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.261429"
+         style="fill:#f7f6f4;fill-opacity:1;stroke:#ffffff;stroke-width:0.261429"
          id="rect842"
          width="239.49928"
          height="239.4993"
