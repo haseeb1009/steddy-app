@@ -11,7 +11,7 @@ import appStore from "../app-store.svg";
 import playStore from "../play-store.svg";
 
 // QR CODE
-import qrCode from "../qr-code-4.svg";
+import qrCode from "../qr-code-7.svg";
 
 import Footer from "../components/Footer/Footer";
 import "./Main.scss";
