@@ -36,8 +36,10 @@ const Main = () => {
         <img className="mobile-image" src={plan1} alt="plan1" />
       </div>
       <div className="app-links">
+          <a href="https://apps.apple.com/us/app/steddy/id1579825538">
           <img src={appStore} alt="App Store" />
-          <img src={playStore} alt="Play Store" />
+          </a>
+          {/* <img src={playStore} alt="Play Store" /> */}
       </div>
 
       <div className="section2" >
